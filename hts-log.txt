@@ -1,0 +1,71 @@
+HTTrack3.49-2 launched on Sun, 15 Mar 2026 16:49:40 at https://temp-number.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/Sms -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://temp-number.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:51:54	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://temp-number.com/)
+16:51:54	Error: 	"Not Found" (404) at link https://temp-number.com/img/favicon.ico (from https://temp-number.com/)
+16:53:20	Warning: 	Link https://temp-number.com/login not scanned (follow robots meta tag)
+16:53:20	Warning: 	Link https://temp-number.com/sign-up not scanned (follow robots meta tag)
+16:56:55	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/Instagram (from https://temp-number.com/)
+16:56:55	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/Twitter (from https://temp-number.com/)
+16:57:08	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/Gmail (from https://temp-number.com/)
+16:58:27	Error: 	"Not Found" (404) at link https://temp-number.com/cdn-cgi/l/email-protection (from https://temp-number.com/)
+16:58:33	Warning: 	Moved Permanently for https://temp-number.com/+/
+16:58:33	Warning: 	File has moved from https://temp-number.com/+/ to http://temp-number.com/public/+
+16:58:35	Error: 	"Not Found" (404) at link https://temp-number.com/GET (from https://temp-number.com/)
+16:58:35	Error: 	"Not Found" (404) at link https://temp-number.com/link.href (from https://temp-number.com/)
+17:06:07	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/instagram (from https://temp-number.com/temporary-numbers)
+17:06:08	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/gmail (from https://temp-number.com/temporary-numbers)
+17:06:08	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/x-twitter (from https://temp-number.com/temporary-numbers)
+17:06:22	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/spotify (from https://temp-number.com/temporary-numbers)
+17:06:22	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/coinbase (from https://temp-number.com/temporary-numbers)
+17:10:38	Warning: 	Moved Permanently for https://temp-number.com/countries/+/
+17:10:38	Warning: 	File has moved from https://temp-number.com/countries/+/ to http://temp-number.com/public/countries/+
+17:10:40	Error: 	"Not Found" (404) at link https://temp-number.com/countries/link.href (from https://temp-number.com/countries/United-Kingdom)
+17:32:17	Warning: 	Moved Permanently for https://temp-number.com/from/platform/+/
+17:32:17	Warning: 	File has moved from https://temp-number.com/from/platform/+/ to http://temp-number.com/public/from/platform/+
+17:32:38	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/link.href (from https://temp-number.com/from/platform/WhatsApp)
+17:35:25	Error: 	"Not Found" (404) at link https://temp-number.com/terms-and-conditions (from https://temp-number.com/about)
+17:35:26	Error: 	"Not Found" (404) at link https://temp-number.com/public/+ (from https://temp-number.com/+/)
+17:36:53	Warning: 	Moved Permanently for https://temp-number.com/temporary-numbers/+/
+17:36:53	Warning: 	File has moved from https://temp-number.com/temporary-numbers/+/ to http://temp-number.com/public/temporary-numbers/+
+17:36:55	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/GET (from https://temp-number.com/temporary-numbers/2)
+17:36:55	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/link.href (from https://temp-number.com/temporary-numbers/2)
+17:38:54	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197010290626/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197010290626/1)
+17:40:06	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Belgium/32463001567/link.href (from https://temp-number.com/temporary-numbers/Belgium/32463001567/1)
+17:41:14	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/1Stack (from https://temp-number.com/temporary-numbers/Netherlands/3197058049902/1)
+17:43:12	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197058049902/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197058049902/1)
+17:44:21	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197058049976/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197058049976/1)
+17:45:10	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-States/18329154700/link.href (from https://temp-number.com/temporary-numbers/United-States/18329154700/1)
+17:45:20	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-States/18329154800/link.href (from https://temp-number.com/temporary-numbers/United-States/18329154800/1)
+17:46:11	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/Call.Com (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974857/1)
+17:47:48	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455974857/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974857/1)
+17:49:47	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455974635/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974635/1)
+17:51:07	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455974408/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974408/1)
+17:51:38	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/BLAND+AI (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974191/1)
+17:52:34	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455974191/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974191/1)
+17:53:03	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197010586706/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197010586706/1)
+17:53:03	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197010588184/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197010588184/1)
+17:53:29	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197010588179/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197010588179/1)
+17:53:46	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Belgium/32463001495/link.href (from https://temp-number.com/temporary-numbers/Belgium/32463001495/1)
+17:55:14	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197058049998/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197058049998/1)
+17:55:45	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/Netherlands/3197058049901/link.href (from https://temp-number.com/temporary-numbers/Netherlands/3197058049901/1)
+17:56:21	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-States/18329154900/link.href (from https://temp-number.com/temporary-numbers/United-States/18329154900/1)
+17:56:31	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-States/18329371777/link.href (from https://temp-number.com/temporary-numbers/United-States/18329371777/1)
+17:56:50	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/Coinbase (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974138/1)
+17:57:16	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455974138/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974138/1)
+17:59:21	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455974068/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455974068/1)
+18:06:30	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455973656/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455973656/1)
+18:06:37	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/PETS4HOMES (from https://temp-number.com/temporary-numbers/United-Kingdom/447455973538/1)
+18:07:18	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455973538/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455973538/1)
+18:09:02	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455972894/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455972894/1)
+18:09:36	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455972563/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455972563/1)
+18:10:31	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455972524/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455972524/1)
+18:12:40	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455972168/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455972168/1)
+18:12:43	Error: 	"Not Found" (404) at link https://temp-number.com/from/platform/MoneyShop+3 (from https://temp-number.com/temporary-numbers/United-Kingdom/447455971114/1)
+18:13:39	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455971114/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455971114/1)
+18:15:00	Error: 	"Not Found" (404) at link https://temp-number.com/temporary-numbers/United-Kingdom/447455970875/link.href (from https://temp-number.com/temporary-numbers/United-Kingdom/447455970875/1)
