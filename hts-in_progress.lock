@@ -1,7 +1,0 @@
-Mirror in progress since Sun, 15 Mar 2026 16:49:40 .. please wait!
-httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/Sms -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://temp-number.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=15538
-UID=10335
-GID=10335
-START=1773571780
